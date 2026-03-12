@@ -12,7 +12,7 @@ const handleStartClick = () => {
   <div class="relative min-h-[80vh] flex flex-col items-center justify-center px-6 py-12">
     <div class="relative z-10 max-w-4xl mx-auto text-center space-y-12 animate-fadeIn">
       <div class="inline-flex items-center gap-2 px-6 py-2 bg-black text-white rounded-full">
-        <span class="text-sm font-bold tracking-widest uppercase">口袋投資風格分析</span>
+        <span class="text-sm font-bold tracking-widest uppercase">基金投資風格分析</span>
       </div>
       <div class="space-y-10">
         <h1 class="font-black text-slate-900 leading-[1.2] text-5xl sm:text-7xl tracking-tight">
